@@ -2,7 +2,7 @@
 title: "<span style='color:#E69F00; font-size:40pt'>How to Promote Yourself in Today's Data Science Job Market</span>"
 subtitle: "<span style='color:#56B4E9; font-size:30pt'>OCRUG 2nd Data Science Hackathon</span> <br>"
 author: Zhi Yang, PhD
-date: "`r Sys.Date()`"
+date: "`r Sys.Date()+1`"
 output:
   xaringan::moon_reader:
     css: ["default", "theme.css"]
@@ -89,484 +89,122 @@ class: middle, center, inverse
 # Second module 
 
 1. .medium[Choose where to publish your work]
-### GitHub, Azure Notebooks, RPubs
+### GitHub, Azure Notebooks, RPubs, ...
 
 2. .medium[Learn literate statistical programming]
 ### RMarkdown, Jupyter Notebook
 
-3. .medium[Document your workflow]
+3. .medium[Document your workflow and ideas]
+### Notion, Wunderlist, ...
 
 ---
 # Things to do today 
 
-## Write a post on LinkedIn
+1. Connect/Endorse ppl on LinkedIn 
+--
 
+2. Take a group photo with laptops
+--
 
+3. Write a post on LinkedIn
+--
 
+4. Update your profile by tomorrow
 
 ---
+# Write a post on LinkedIn
+.pull-left[
+## Don'ts
+### one sentence 
+
+### a photo of yourself
+
+### mention no one 
+
+### no hashtags
+]
+
+.pull-right[
+## Dos
+### Action and results
+
+### a photo with your team
+
+### @ your team/organizers
+
+### use buzzwords hashtags
+]
+
+---
+# Update your profile
+
+### make your headline stand out
+Looking for data science jobs
+
+### summarize your achievements
+including keywords from job descriptions and cover letters
+
+### take skill quiz
+
+---
+# Update your profile
+
+### add images/links to your summary
+
+<img src="imgs/addimgs1.PNG" width="80%">
+
+---
+# Update your profile
+
+### add images/links to your experience
+
+<img src="imgs/addimgs2.PNG" width="70%">
+
+---
+# Portfolio website with blogdown
+<img src="imgs/portfolio1.PNG" width="70%">
+
+---
+# Make a website under 20 mins
+
+<blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">Thank you for emphasizing the importance of an academic website! <br><br>You can build a website under 20-min using <a href="https://twitter.com/hashtag/blogdown?src=hash&amp;ref_src=twsrc%5Etfw">#blogdown</a> and the <a href="https://twitter.com/hashtag/hugoAcademic?src=hash&amp;ref_src=twsrc%5Etfw">#hugoAcademic</a> template by <a href="https://twitter.com/georgecushen?ref_src=twsrc%5Etfw">@georgecushen</a>. I highly recommend <a href="https://twitter.com/apreshill?ref_src=twsrc%5Etfw">@apreshill</a>&#39;s <a href="https://twitter.com/hashtag/rstudioconf2019?src=hash&amp;ref_src=twsrc%5Etfw">#rstudioconf2019</a> workshop <a href="https://t.co/aBRiC2Bjxk">https://t.co/aBRiC2Bjxk</a> and<a href="https://t.co/HdMOEmT34K">https://t.co/HdMOEmT34K</a></p>&mdash; Zhi Yang | DM me abt @USCBiostat &amp; DS interviews (@zhiiiyang) <a href="https://twitter.com/zhiiiyang/status/1192283605034123264?ref_src=twsrc%5Etfw">November 7, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---
+# Portfolio website with blogdown
+
+<img src="imgs/portfolio2.PNG" width="70%">
+
+---
+# A page dedicated to a project
+
+<img src="imgs/portfolio3.PNG" width="70%">
+
+
+-----
+# FREE 90-min workshop on portfolio building  
+
+-
+# Things to do tomorrow 
+
+### Take a photo of team presentation/winning
+
+### WriCreate sharable links for slides and projects
+
+### te a post on LinkedIn 
+
+---### Write a blog on LinkedIn, Medium, or your blog
+
+---
+# Write a post on LinkedIn  
+
+
+
 # .small[Introducing "all in one" incredible package]
 
 <img src="imgs/ocrug.png" width="80%">
 
 
----
-# P01 Family
-
-<img src="https://pbs.twimg.com/media/DtIZwSrU4AEjIUQ?format=jpg&name=small">
-
----
-# Happy Scientist Seminars
-
-<img src="imgs/BigR.PNG" width = "50%">
-
----
-# R Markdown Flyer
-
-<img src="imgs/happyflyer.PNG" width = "45%">
-
----
-# .small[Antoine Lavoisier, Father of Modern Chemistry]
-
-<img src="imgs/father.jpg" width="50%">
-
-
----
-# 
-
-<img src = "https://blog.nli.org.il/wp-content/uploads/2017/06/DavidPortrait715X537.jpg">
-
----
-# Google Search Results
-
-<br>
-<br>
-
-<img src="imgs/lookleft.PNG" width = "80%">
-
----
-# Marie's Drawing Examples 
-
-.pull-left[
-<img src="https://www.uh.edu/engines/gazometer.jpg" width = "70%">
-]
-
-.pull-right[
-<img src="https://www.lindahall.org/wp-content/uploads/sites/5/2017/01/paulze3.jpg" width="120%">
-]
-
----
-# Marie's Painting Teacher
-
-<img src="https://mymodernmet.com/wp/wp-content/uploads/2019/05/death-of-marat-thumbnail.jpg">
-
----
-
-
-<img src="imgs/tinder.png" width = "60%">
-
-
----
-class: middle, center, inverse
-
-# Introducing
-
 --
-
-<div id="demotext">R Markdown</div>
-
-
----
-# R Markdown
-
-### Guess which one is **not** made by R Markdown? 
-.pull-left[
-<img src="https://bookdown.org/yihui/rmarkdown/images/cover.png" width=65%>
-]
-
-.pull-right[
-### - [A personal website](https://malco.io/)
-### - [A book](https://r4ds.had.co.nz/)
-### - [A presentation](https://evamaerey.github.io/ggplot_flipbook/ggplot_flipbook_xaringan.html#9)
-### - [An interactive website](https://malcolmbarrett.shinyapps.io/purrr_exercises/)
-### - [A dashboard](https://shiring.shinyapps.io/demo_dashboard_pred_maint_fast/#section-introduction)
-]
-
----
-class: center, middle
-
-## The answer is 
-# None of them
-## They are all built on R Markdown 😂
-
----
-# Introduction to "downverse"
-
-<img src="https://image-static.segmentfault.com/287/168/2871686611-57c533596a560">
-
-.footnote[[from harryprince/awesome-rmarkdown](https://github.com/harryprince/awesome-rmarkdown/blob/master/README.md)]
-
----
-class: middle, center
-
-# Don't worry
-![](https://i.pinimg.com/originals/c6/52/04/c6520426b6017d1dcbedae3bf61afd99.jpg)
-# They are all just R Markdown!
-
----
-class: middle, center 
-
-<img src="http://giphygifs.s3.amazonaws.com/media/1M9fmo1WAFVK0/giphy.gif" width = 150%>
-
----
-class: middle, center, inverse
-
-1. .w[Reproducibility]
-
---
-
-2. .w[Multiple output formats]
-
---
-
-3. .w[Support multiple languages]
-
---
-
-4. .w[Most importantly, *not ugly*]
-
----
-# Unifying Existent Things
-
-<img src="https://miro.medium.com/max/4192/1*LPmXdGsQHyqKARiBjOwxcw.png" width="40%">
-
---
-
-<img src="https://devclass.com/wp-content/uploads/2018/11/databricks-logo.jpg" width="40%">
-
---
-
-<img src="https://ncccc.org/wp-content/uploads/2018/08/costco_wholesale-logo-500x200.jpg" width="40%">
-
-
----
-# Where do you position yourself?
-
-<img src="imgs/chart.PNG" width = "100%">
-
-
----
-background-image: url(https://bookdown.org/yihui/rmarkdown/images/hex-rmarkdown.png)
-background-position: 90% 5%
-background-size: 10%
-
-# Basics of .Rmd Files 
-
-<img src="imgs/breakdown.PNG" width = "100%">
-
-
----
-# .medium[YAML with `ymlthis` by Malcolm Barrett]
-
-<img src="https://i.imgur.com/5dFkcx9.gif" width = "60%">
-
----
-
-<img src="https://usc-rbootcamp-2019.netlify.com/07-rmarkdown_basics/rmarkdown_wizards.png" width="80%">
-
-### Check out Malcolm's R Markdown [Tutorial](h herettps://usc-rbootcamp-2019.netlify.com/07-rmarkdown_basics/rmarkdown_basics.html#1)
-
-.footnote[Artwork by @allison_horst]
-
----
-# While in Graduate School
-
-### documentating your research 
-### writing manuscripts
-### making slides
-### creating posters
-### teaching classes with R
-
-
----
-# While in Graduate School
-
-### documentating your research 
-### writing manuscripts
-### .grey[making slides]
-### .grey[creating posters]
-### .grey[teaching classes with R]
-
----
-# .medium[R Markdown [Workshop](https://rmd-combine-2019.netlify.com/session2.html#26) by Emi Tanaka]
-
-<blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">✅ <a href="https://twitter.com/combine_au?ref_src=twsrc%5Etfw">@combine_au</a> R Markdown workshop done <br><br>All material here: <a href="https://t.co/QBScBVbrc8">https://t.co/QBScBVbrc8</a><br><br>I particularly liked showcasing the various <a href="https://twitter.com/hashtag/rmarkdown?src=hash&amp;ref_src=twsrc%5Etfw">#rmarkdown</a> themes (pop-up is actually html and its reactive!)<br><br>I&#39;ll be giving two more R Markdown workshop:<br>📍19 Nov Melbourne <br>📍1 Dec Adelaide <a href="https://t.co/0JRVL68u0n">pic.twitter.com/0JRVL68u0n</a></p>&mdash; Emi Tanaka 🌾 (@statsgen) <a href="https://twitter.com/statsgen/status/1180744907658420226?ref_src=twsrc%5Etfw">October 6, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
----
-# Document Your R Package
-
-![](imgs/pkgdown.gif)
-
-
----
-# Write a Thesis/Book
-
-![](imgs/bookdown.gif)
-
-
----
-# While in Graduate School
-
-### .grey[documentating your research]
-### .grey[writing manuscripts]
-### making slides
-### .grey[creating posters]
-### .grey[teaching classes with R]
-
----
-# Making Slides
-
-.pull-left[
-### Need to show `R cde snippets`? 
-<img src="https://cdn-images-1.medium.com/max/800/1*8Z1xFlBtHVN1rY7oWFnlIg.gif"/>
-]
-
-.pull-right[ 
-### got no time for formatting? 
-<img src="https://i2.wp.com/erickimphotography.com/blog/wp-content/uploads/2018/09/steve-jobs-interview-11.png" width="90%" />]
-
----
-background-image: url(https://user-images.githubusercontent.com/163582/45438104-ea200600-b67b-11e8-80fa-d9f2a99a03b0.png)
-background-position: 90% 5%
-background-size: 10%
-
-# Making Slides
-
-<blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">Sneak peak of Part 1 of my Machine Learning 101 talk for <a href="https://twitter.com/RLadiesSydney?ref_src=twsrc%5Etfw">@RLadiesSydney</a> this Wednesday! 🤫 😉<br> <br>KNN is a fast, simple, and effective <a href="https://twitter.com/hashtag/machinelearning?src=hash&amp;ref_src=twsrc%5Etfw">#machinelearning</a> algorithm for classifying data in <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a>! ✅<br><br>PS how amazing is <a href="https://twitter.com/statsgen?ref_src=twsrc%5Etfw">@statsgen</a>&#39;s Kunoichi theme for <a href="https://twitter.com/hashtag/xaringan?src=hash&amp;ref_src=twsrc%5Etfw">#xaringan</a>!? <a href="https://t.co/M2LyONW0vP">pic.twitter.com/M2LyONW0vP</a></p>&mdash; Sarah Romanes (@sarah_romanes) <a href="https://twitter.com/sarah_romanes/status/1048760030659407872?ref_src=twsrc%5Etfw">October 7, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
----
-# Slides with Countdown
-
-<blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">⏰ Cuz it&#39;s been so heavily featured in <a href="https://twitter.com/hadleywickham?ref_src=twsrc%5Etfw">@hadleywickham</a>&#39;s Tidy-Tools workshop…<br>⏲ &quot;{countdown}: countdown timer for R Markdown slides and HTML docs&quot; by <a href="https://twitter.com/grrrck?ref_src=twsrc%5Etfw">@grrrck</a> <a href="https://t.co/KDIrYzHemT">https://t.co/KDIrYzHemT</a> <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a><br>☝️ pro tip: works really nicely in RStudio viewer pane for live coding! <a href="https://t.co/Vg9BmffLlZ">pic.twitter.com/Vg9BmffLlZ</a></p>&mdash; Mara Averick (@dataandme) <a href="https://twitter.com/dataandme/status/1184081490424016896?ref_src=twsrc%5Etfw">October 15, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
----
-# While in Graduate School
-
-### .grey[documentating your research]
-### .grey[writing manuscripts]
-### .grey[making slides]
-### creating posters
-### .grey[teaching classes with R]
-
----
-# Creating Posters
-
-![](imgs/posterdown.gif)
-
----
-# Creating Posters
-
-<img src="https://pbs.twimg.com/media/D9SzTc9XUAYimYh?format=jpg&name=900x900" width="50%">
-
----
-# Build a Dashboard
-
-<blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">The <a href="https://twitter.com/hashtag/Fusarium?src=hash&amp;ref_src=twsrc%5Etfw">#Fusarium</a> graminearum species complex global database and mapping is taking shape! thanks to <a href="https://twitter.com/rstudio?ref_src=twsrc%5Etfw">@rstudio</a> <a href="https://twitter.com/hashtag/flexdashboard?src=hash&amp;ref_src=twsrc%5Etfw">#flexdashboard</a> <a href="https://twitter.com/hashtag/crosstalk?src=hash&amp;ref_src=twsrc%5Etfw">#crosstalk</a> <a href="https://t.co/ITxh5R5j7U">pic.twitter.com/ITxh5R5j7U</a></p>&mdash; Emerson Del Ponte (@edelponte) <a href="https://twitter.com/edelponte/status/898013549758472196?ref_src=twsrc%5Etfw">August 17, 2017</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
----
-# Make Your Report Interactive!!
-
-<blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">R Shiny + flexdashboard with code<br><br>🐱 github repository: <a href="https://t.co/NuIofPI8xa">https://t.co/NuIofPI8xa</a><br>✨ live app: <a href="https://t.co/KmelRXgEUW">https://t.co/KmelRXgEUW</a><br><br>💪 <a href="https://twitter.com/hashtag/getstrongeR?src=hash&amp;ref_src=twsrc%5Etfw">#getstrongeR</a> <a href="https://twitter.com/hashtag/Rstats?src=hash&amp;ref_src=twsrc%5Etfw">#Rstats</a> <a href="https://twitter.com/hashtag/shiny?src=hash&amp;ref_src=twsrc%5Etfw">#shiny</a> <a href="https://twitter.com/hashtag/rmarkdown?src=hash&amp;ref_src=twsrc%5Etfw">#rmarkdown</a> <a href="https://t.co/teOOoEFfdk">pic.twitter.com/teOOoEFfdk</a></p>&mdash; Alessio Passalacqua (@alessiopassah2o) <a href="https://twitter.com/alessiopassah2o/status/1153924107903426560?ref_src=twsrc%5Etfw">July 24, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-
----
-# While in Graduate School
-
-### .grey[documentating your research]
-### .grey[writing manuscripts]
-### .grey[making slides]
-### .grey[creating posters]
-### teaching classes with R
-
----
-# Teaching Classes with R
-
-<blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">Discovery of the week: <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> live code editor areas can be embedded in a slide deck using <a href="https://twitter.com/hashtag/learnr?src=hash&amp;ref_src=twsrc%5Etfw">#learnr</a> + <a href="https://twitter.com/hashtag/rmarkdown?src=hash&amp;ref_src=twsrc%5Etfw">#rmarkdown</a> + <a href="https://twitter.com/hashtag/slidy?src=hash&amp;ref_src=twsrc%5Etfw">#slidy</a> affording powerful options to foster active learning. <a href="https://t.co/AwWgqRdbM8">https://t.co/AwWgqRdbM8</a> <a href="https://t.co/8ta4Pd3ef5">pic.twitter.com/8ta4Pd3ef5</a></p>&mdash; James Balamuta (@axiomsofxyz) <a href="https://twitter.com/axiomsofxyz/status/999487130463277056?ref_src=twsrc%5Etfw">May 24, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-```{r include=FALSE}
-tryme <- function() {
-  gitlink::ribbon_css(
-    "https://malcolmbarrett.shinyapps.io/purrr_exercises/", 
-    text = "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Demo!", 
-    width = "250px", 
-    top = "28px", 
-    parent_css = list(top = "00px", "z-index" = "100")
-  )
-}
-```
-
-`r tryme()`
-
----
-# PhDone
-
-<img src="http://m.quickmeme.com/img/25/2528a7f34f85908b49caa8e7a76f6d1631d35b93751d7419d37193bf669394fb.jpg" width="70%">
-
----
-# .medium[Time to Call Your Friends & Family]
-
-<img src="http://www.in-recruiting.com/wpinre/wp-content/uploads/Blog_immagini/ENG/get-cv.png" width="70%">
-
----
-# LinkedIn Ranking System
-
-<img src="imgs/linkedin.png" width="45%">
-
----
-# Applicant Tracking System
-
-<img src="https://4b7shz1mne6l1s4jey3gd0ja-wpengine.netdna-ssl.com/wp-content/uploads/ATS-cant-read-PDFs.jpg" width="70%">
-
----
-# Ready to Exit Graduate School
-
-## build a personal website
-## get a resume
-
-
----
-# Ready to Exit Graduate School
-
-## build a personal website
-## .grey[get a resume]
-
----
-# Build a personal website
-
-<blockquote class="twitter-tweet tw-align-center"><p lan tw-align-centerg="en" dir="ltr">I have a personal academic website now! -&gt; <a href="https://t.co/n7PYVMKuQl">https://t.co/n7PYVMKuQl</a><br><br>It has my resume, my publications, talks, projects, and a blog. Even more, I already have two more ideas for posts.<a href="https://twitter.com/hashtag/AcademicTwitter?src=hash&amp;ref_src=twsrc%5Etfw">#AcademicTwitter</a> <a href="https://twitter.com/hashtag/ECRchat?src=hash&amp;ref_src=twsrc%5Etfw">#ECRchat</a> <a href="https://twitter.com/hashtag/PhDchat?src=hash&amp;ref_src=twsrc%5Etfw">#PhDchat</a> <a href="https://twitter.com/hashtag/AcademicWebsite?src=hash&amp;ref_src=twsrc%5Etfw">#AcademicWebsite</a> <a href="https://twitter.com/hashtag/blogdown?src=hash&amp;ref_src=twsrc%5Etfw">#blogdown</a> <a href="https://t.co/vAGXSGaLcV">pic.twitter.com/vAGXSGaLcV</a></p>&mdash; Dr Melina Vidoni (@melvidoni) <a href="https://twitter.com/melvidoni/status/1063378687008141315?ref_src=twsrc%5Etfw">November 16, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
----
-# Write a Blog with Minimum Effort
-
-<blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">If you’re an academic you need a website so that people can easily find info about your research and publications. Here’s how to make your own website for free in an under an hour using the blogdown package in <a href="https://twitter.com/hashtag/Rstats?src=hash&amp;ref_src=twsrc%5Etfw">#Rstats</a> [THREAD] <a href="https://t.co/9Lmo00Gkf0">pic.twitter.com/9Lmo00Gkf0</a></p>&mdash; Dan Quintana (@dsquintana) <a href="https://twitter.com/dsquintana/status/993410504570888192?ref_src=twsrc%5Etfw">May 7, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
----
-# Build a Site under 20 Seconds 
-
-![](imgs/blogdown1.gif)
-
----
-# Serve a Site
-![](imgs/blogdown2.gif)
-
----
-# Write a Blog
-
-![](/imgs/emi-showcase.gif)
-
-
-```{r include=FALSE}
-tryme <- function() {
-  gitlink::ribbon_css(
-    "https://www.williamrchase.com", 
-    text = "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Demo!", 
-    width = "250px", 
-    top = "28px", 
-    parent_css = list(top = "00px", "z-index" = "100")
-  )
-}
-```
-
-`r tryme()`
-
----
-# Why Write a Blog?
-
-<blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">Should people stop writing blog posts and move to Medium? 🧐<br>Personal Blog Websites vs. Medium: Pros and Cons by <a href="https://twitter.com/Brightspeaking?ref_src=twsrc%5Etfw">@Brightspeaking</a> <a href="https://t.co/VoXM5wWbzB">https://t.co/VoXM5wWbzB</a></p>&mdash; Zhi Yang (@zhiiiyang) <a href="https://twitter.com/zhiiiyang/status/1172637116406226944?ref_src=twsrc%5Etfw">September 13, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
----
-# Tutorials
-
-![](imgs/summer.PNG)
-
----
-# Protip from Alison Hills
-
-<blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">An <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> <a href="https://twitter.com/hashtag/blogdown?src=hash&amp;ref_src=twsrc%5Etfw">#blogdown</a> file hierarchy cheatsheet:<br><br>├─ archetypes &lt;- edit me! <br>├─ config.toml &lt;- edit me! <br>├─ content &lt;- edit me! <br>├─ data &lt;- edit me! <br>├─ layouts &lt;- edit me! <br>├─ public &lt;- ignore me!<br>├─ static &lt;- use me! (png/pdf/csv/xls)<br>├─ themes &lt;- don&#39;t touch! <a href="https://t.co/gvVA703Lwa">pic.twitter.com/gvVA703Lwa</a></p>&mdash; Alison Hill (@apreshill) <a href="https://twitter.com/apreshill/status/1078494406301212672?ref_src=twsrc%5Etfw">December 28, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
----
-# Ready to Exit Graduate School
-
-## .grey[build a personal website]
-## get a resume
-
-
----
-# Get a Resume
-
-![](imgs/pagedown.gif)
-
----
-background-image: url(https://github.com/mitchelloharawild/vitae/raw/master/man/figures/logo.png)
-background-position: 90% 5%
-background-size: 10%
-
-# Get a CV 
-
-<img src="imgs/cv.PNG">
-
----
-# Always Start with Templates!
-
-<blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">&quot;Good artists copy; great artists steal&quot; - Pablo Picasso <a href="http://t.co/cGSQxxrZ9h">pic.twitter.com/cGSQxxrZ9h</a></p>&mdash; History In Pictures (@HistoryInPics) <a href="https://twitter.com/HistoryInPics/status/481492202825474048?ref_src=twsrc%5Etfw">June 24, 2014</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
----
-# R Markdown Gallery
-
-![](imgs/gallery.gif)
-
-.footnote[https://rmarkdown.rstudio.com/gallery.html]
-
----
-# R Markdown Family
-
-![](imgs/family.gif)
-
-.footnote[https://github.com/pzhaonet/rmd]
-
-
----
-# Make It Fancy? 
-
-<img src="https://media1.tenor.com/images/365f958cf8b034b332163b02d27d380e/tenor.gif?itemid=14274531">
-
-
----
-# Or Just Lazy? 
-
-<img src="https://sayingimages.com/wp-content/uploads/if-lazy-meme.png">
-
-
----
-# Do More with Less
-
-<img src="https://media2.giphy.com/media/DgucJIS069Lry/source.gif" width = "60%" >
-
-.footnote[Authoring Books with R Markdown]
-
-
----
-class:---
-# Anything Between?
- <img src="imgs/officer.PNG">
-
----
-# Converting PPT Using Slidex
-
-<img src="https://github.com/datalorax/slidex/raw/master/docs/slidex-preview.gif">
-
-
----
 class: center, middle
 
 # Thanks! and Keep in touch
