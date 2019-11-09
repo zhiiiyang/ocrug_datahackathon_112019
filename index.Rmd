@@ -106,13 +106,13 @@ class: middle, center, inverse
 2. Take a group photo with laptops
 --
 
-3. Write a post on LinkedIn
+3. Post a status on LinkedIn 
 --
 
 4. Update your profile by tomorrow
 
 ---
-# Write a post on LinkedIn
+# Post a status on LinkedIn 
 .pull-left[
 ## Don'ts
 ### one sentence 
@@ -138,13 +138,13 @@ class: middle, center, inverse
 ---
 # Update your profile
 
-### make your headline stand out
-Looking for data science jobs
+1. make your headline stand out
+### Looking for data science jobs
 
-### summarize your achievements
-including keywords from job descriptions and cover letters
+2. summarize your achievements
+### including keywords from job descriptions and cover letters
 
-### take skill quiz
+3. take skill quiz
 
 ---
 # Update your profile
@@ -183,36 +183,148 @@ including keywords from job descriptions and cover letters
 -----
 # FREE 90-min workshop on portfolio building  
 
--
+<img src="imgs/blogdown.PNG" width="70%">
+
+---
 # Things to do tomorrow 
 
-### Take a photo of team presentation/winning
+1. .medium[Take a photo of team presentation/winning]
+--
 
-### WriCreate sharable links for slides and projects
+2. .medium[Create sharable links for slides and projects]
+--
 
-### te a post on LinkedIn 
+3. .medium[Post a status on LinkedIn]
+--
 
----### Write a blog on LinkedIn, Medium, or your blog
+4. .medium[Write a post on LinkedIn/Medium/blog]
 
 ---
 # Write a post on LinkedIn  
 
+## What to write about?
+
+What you've achieved? -> I just completed two-day #datascience #hackathon
+
+What you've learned? -> data viz, coding, teamwork, networking, presenting
+
+Who would you thank? -> @ team + organizers 
+
+Why are you posting? -> I'm currently looking for DS internship/full-time jobs
+
+project links + group photos + gif of dataviz
+
+use spaces between paragraphs 
+
+---
+# Post a status on LinkedIn
+
+<img src="imgs/status.PNG" width="70%">
+
+---
+# Create an image for your status
+
+## Please don't do the following 
+.pull-left[
+
+Show more than one link.
+
+<img src="imgs/links1.PNG" align="middle">
+]
+
+.pull-right[
+
+Use non-clickable images.
+
+<img src="imgs/links2.PNG" width="50%">
+]
+---
+# Create an image for your status
+
+<img src="imgs/socialmedia.PNG" width="70%">
+
+### .center[It is made in PowerPoint. No Photoshop is needed.]
+
+---
+# .medium[Write a post on LinkedIn/Medium/blog]
+
+### 7 things that I learned from my first hackathon
+
+### What I've learned from winning/failing my first hackathon
+
+### Why and how to attend your first hackathon
+
+### How to win a hackathon as a student
+
+### Hackathon survival guide: sleep
+
+### Announcing the Winners of hackathon 
+
+---
+# .medium[How to navigate on LinkedIn premium]
+
+1. Get an all-star profile
+
+2. Connect to LIONs
+
+3. Post relevant contents
+
+4. DM hiring managers
+
+---
+# How to DM a hiring manager
+
+1. Type "hiring" in search bar
+
+2. Send a short paragragh 
+
+3. If get replied, always ask to connect 
+
+4. Touch base every 2~3 months
+
+---
+# How to DM a hiring manager
+
+<img src="imgs/premium3.png" width="80%">
 
 
-# .small[Introducing "all in one" incredible package]
+---
+# Monitor your audiences 
 
-<img src="imgs/ocrug.png" width="80%">
+<img src="imgs/premium1.png" width="80%">
 
+### .center[~2w ago: announcing the events]
+### .center[~2m ago: posting a Google AIY project]
 
---
+---
+# Monitor your audiences 
+
+<img src="imgs/premium2.png" width="70%">
+
+### .center[Who is viewing your status?]
+
+---
+class: middle, center, inverse
+
+## How to be good at it?
+
+<div id="demotext">Practice makes perfect</div>
+
+---
+# .small[Introducing "all in one" incredible plan]
+
+<img src="imgs/ocrug.png" width="70%">
+
+### .center[Become a social media volunteer today!]
+
+---
 class: center, middle
 
 # Thanks! and Keep in touch
 <br>
 
-### `r icon::fa("twitter")` [@zhiiiyang](https://twitter.com/zhiiiyang)
-### `r icon::fa("github")`  [zhiiiyang](https://github.com/zhiiiyang)
-### `r icon::fa("envelope")`  [zyang895@gmail.com](mailto:zyang895@gmail.com)
+## Follow me on Twitter (@zhiiiyang) 
+## Connect me on LinkedIn (@zhiiiyang)
 
 <br>
 
