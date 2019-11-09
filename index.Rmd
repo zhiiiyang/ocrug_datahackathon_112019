@@ -2,7 +2,7 @@
 title: "<span style='color:#E69F00; font-size:40pt'>How to Promote Yourself in Today's Data Science Job Market</span>"
 subtitle: "<span style='color:#56B4E9; font-size:30pt'>OCRUG 2nd Data Science Hackathon</span> <br>"
 author: Zhi Yang, PhD
-date: "`r Sys.Date()+1`"
+date: "`r Sys.Date()`"
 output:
   xaringan::moon_reader:
     css: ["default", "theme.css"]
@@ -122,6 +122,8 @@ class: middle, center, inverse
 ### mention no one 
 
 ### no hashtags
+
+### No tagging companies
 ]
 
 .pull-right[
@@ -133,7 +135,15 @@ class: middle, center, inverse
 ### @ your team/organizers
 
 ### use buzzwords hashtags
+
+### Tagging all the time
 ]
+
+---
+# Don't be afraid to tag big companies 
+
+<blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">Do I know anyone at <a href="https://twitter.com/Apple?ref_src=twsrc%5Etfw">@apple</a> who can help me expedite a support request? I just spent 90 mins on hold and the best they can do is a call back in 7-14 days 😬 (This after Apple lost my trade in phone and send me someone else’s back)</p>&mdash; Hadley Wickham (@hadleywickham) <a href="https://twitter.com/hadleywickham/status/1192974662550085632?ref_src=twsrc%5Etfw">November 9, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 
 ---
 # Update your profile
@@ -302,6 +312,26 @@ Use non-clickable images.
 <img src="imgs/premium2.png" width="70%">
 
 ### .center[Who is viewing your status?]
+
+---
+# Should I prioritize self branding?
+
+<img src="imgs/bucket.png" width="70%">
+
+---
+# .medium[The Exponential Impact of Social Media] 
+
+```{r echo=FALSE}
+library(ggplot2)
+df <- data.frame(Time = 1:12, Effect = exp(-(12:1)*0.5))
+ggplot(df, aes(Time, Effect)) + 
+  geom_line() +
+  scale_x_continuous(breaks = c(1, 3, 6, 9, 12), 
+                     labels = month.abb[c(1, 3, 6, 9, 12)]) +
+  theme(text = element_text(size=20))
+  
+```
+
 
 ---
 class: middle, center, inverse
